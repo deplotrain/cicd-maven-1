@@ -2,6 +2,7 @@ package com.company.app;
 
 /**
  * Hello world!
+ * Glad to say that
  */
 public class App
 {
